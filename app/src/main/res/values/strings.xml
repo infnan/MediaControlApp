@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">媒体播放开关</string>
+    <string name="listener_name">媒体播放开关（识别播放器）</string>
+    <string name="paused">已暂停媒体播放</string>
+    <string name="resumed">已恢复媒体播放</string>
+    <string name="no_player">当前无播放器</string>
+    <string name="grant_access">请先允许“媒体播放开关”使用通知使用权，然后再次启动</string>
+    <string name="control_failed">播放器未响应播放/暂停指令</string>
+    <string name="access_failed">无法读取播放器状态，请检查通知使用权</string>
+</resources>
